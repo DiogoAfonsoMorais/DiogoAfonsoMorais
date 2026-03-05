@@ -11,8 +11,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-# Hi, I'm Diogo Morais 👋
+# Hey there 
 
+**`SOC Analyst | Cybersecurity Professional | Automation Enthusiast`**
 Technical professional with experience in **IT support, infrastructure operations, and cybersecurity**.  
 I combine **troubleshooting, log analysis, and automation skills** to solve complex technical problems.  
 Currently focused on **Security Operations / SOC Analyst roles** and remote technical positions.
