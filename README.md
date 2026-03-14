@@ -13,7 +13,7 @@
 
 # Hey there 
 
-**`SOC Analyst | Cybersecurity Professional | Automation Enthusiast`**
+**`Cybersecurity & Automation | SOC / Security Operations | Application Suport Engineer`**
 Technical professional with experience in **IT support, infrastructure operations, and cybersecurity**.  
 I combine **troubleshooting, log analysis, and automation skills** to solve complex technical problems.  
 Currently focused on **Security Operations / SOC Analyst roles** and remote technical positions.
