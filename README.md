@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-# Hi, I'm Diogo Afonso Morais
+# Hi,
 
 **`Cybersecurity & Automation | SOC / Security Operations | Application Suport Engineer`**
 
