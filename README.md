@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-# Hey there 
+# Hi, I'm Diogo Afonso Morais
 
 **`Cybersecurity & Automation | SOC / Security Operations | Application Suport Engineer`**
 
@@ -32,7 +32,7 @@ Currently focused on **Security Operations / SOC Analyst roles** and remote tech
 ## 🔹 Projects
 
 - **Security Log Analyzer** – Python tool to detect suspicious authentication activity  
-- **SSH Brute Force Investigation** – Simulated SOC incident with log analysis and attack pattern identification  
+
 
 *More projects coming soon…*
 
