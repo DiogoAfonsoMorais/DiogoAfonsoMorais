@@ -32,7 +32,7 @@ Currently focused on **Security Operations / SOC Analyst roles** and remote tech
 ## 🔹 Projects
 
 - **Security Log Analyzer** – Python tool to detect suspicious authentication activity  
-
+- **AppSec Orchestatror** -  Manages, automates, and monitors security scans across repositories, containers, and web applications
 
 *More projects coming soon…*
 
